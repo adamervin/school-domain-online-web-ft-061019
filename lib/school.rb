@@ -16,5 +16,7 @@ roster[grade] << name
  
  end 
  def sort 
+   roster.each do |grade,name|
+     
  end 
 
